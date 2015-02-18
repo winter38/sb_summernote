@@ -125,7 +125,7 @@ true);o(a.doc,i,b.endMarkerId,false)}d==1&&i.normalizeBoundaries();f[j]=i}if(d==
  *
  * Date: 2014-09-21T04:14Z
  *
- * WARNING - some parts were commented - look for DS
+ * WARNING - some parts were commented - look for DS!
  */
 (function (factory) {
   /* global define */
